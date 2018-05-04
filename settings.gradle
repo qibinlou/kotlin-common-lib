@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-lib'
+
+include 'kotlin-lib-common', 'kotlin-lib-jvm', 'kotlin-lib-js'
